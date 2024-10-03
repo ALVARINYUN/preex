@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 modulo
+=======
+for
+while
+ciclos
+.
+..
+...
+....
+>>>>>>> ramab
