@@ -1,5 +1,2 @@
-vectores
-matrices
-mvector
-mtridimensional
+dia sbuenos
 examen
