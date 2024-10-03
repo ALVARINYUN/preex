@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-multiplicacion de vectores
-=======
 vectores
 matrices
-.
-..
-...
-....
-.....
->>>>>>> ramab
+mvector
+mtridimensional

@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-modulo
-=======
 for
 while
 ciclos
-.
-..
-...
-....
->>>>>>> ramab
+para programar
