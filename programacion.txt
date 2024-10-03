@@ -1,3 +1,5 @@
 for
 while
 ciclos
+variables
+modulo

@@ -1,2 +1,4 @@
 vectores
 matrices
+proposiciones
+multiplicacion de vectores
